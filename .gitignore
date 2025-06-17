@@ -6,7 +6,9 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
-
+claude
+.bolt/
+CLAUDE.md
 # native
 *.orig.*
 *.jks
